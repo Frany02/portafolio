@@ -16,7 +16,7 @@ export class Cursos {
       dias: "Martes y jueves",
       horarios: "De 8:00 a 9:00 horas",
       cupos: 20,
-      descripcion: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu sapien vitae risus bibendum euismod.",
+      descripcion: "Lorem ipsum dolor sit aet, consectetur adipiscing elit. Mauris eu sapien vitae risus bibendum euismod.",
       valor: 12000,
       imagen: "https://falabella.scene7.com/is/image/Falabella/gsc_114245689_945294_1?wid=800&hei=800&qlt=70",
     },
